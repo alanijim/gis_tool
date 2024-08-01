@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/plugins/SlaacGatheringTool" >
+        <file>icons/48/About.png</file>
+        <file>icons/48/AddEdge.png</file>
+        <file>icons/48/AddNode.png</file>
+        <file>icons/48/AddNodeAtIntersection.png</file>
+		<file>icons/48/addNodeMiddleCanvas.png</file>
+        <file>icons/48/AddNodeXY.png</file>
+        <file>icons/48/DrawArea.png</file>
+        <file>icons/48/EditArea.png</file>
+        <file>icons/48/ExportArea.png</file>
+        <file>icons/48/Forms.png</file>
+		<file>icons/48/FormsZoomTo.png</file>
+        <file>icons/48/HideZoomPin.png</file>
+        <file>icons/48/ImportArea.png</file>
+        <file>icons/48/MoveNode.png</file>
+        <file>icons/48/RemoveArea.png</file>
+        <file>icons/48/RemoveEdge.png</file>
+        <file>icons/48/RemoveNode.png</file>
+        <file>icons/48/SolveProblem.png</file>
+        <file>icons/48/SplitEdge.png</file>
+        <file>icons/48/UpdateLocation.png</file>
+        <file>icons/48/UpDateProgress.png</file>
+        <file>icons/48/ZoomToXY.png</file>
+    </qresource>
+</RCC>
